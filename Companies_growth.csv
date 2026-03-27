@@ -1,0 +1,110 @@
+,Symbol,Company,Price,52 WkChange %,EstimatedValuation,Total FundingRaised,Latest FundingDate,Latest AmountRaised,Latest RoundShare Class,Private CompanySector
+0,POLA.PVT,Polymarket,141.60,"+1,575.74%",12.295B,1.27B,2025-10-06,1B,Series D,Blockchain and Crypto
+1,KLSH.PVT,Kalshi,324.82,+884.00%,11.139B,1.531B,2025-11-19,999.997M,Series E,Financial Services
+2,NURO.PVT,Nuro,8.43,+743.00%,3.954B,2.206B,2025-08-20,203.188M,Series E,Transportation
+3,SKIA.PVT,Skild AI,64.95,+684.42%,13.999B,2.217B,2026-01-13,694.067M,Series C,Hardware
+4,WHOO.PVT,WHOOP,11.23,+560.59%,9.071B,898.852M,2026-02-25,440M,Series G-1,Consumer Goods
+5,REPI.PVT,Replit,268.12,+495.82%,9.72B,854.09M,2026-02-11,400M,Series D,Software
+6,ANTH.PVT,Anthropic,259.14,+329.61%,380.005B,53.15B,2026-02-11,15.045B,Series G-1,Artificial Intelligence
+7,CUES.PVT,Crusoe Energy Systems,123.05,+321.84%,14.647B,2.62B,2025-10-23,1.375B,Series E,Energy
+8,OPAI.PVT,OpenAI,727.98,+252.29%,840B,166.07B,2026-02-26,110B,Series C,Artificial Intelligence
+9,LAMD.PVT,Lambda,60.46,+176.45%,11.053B,2.364B,2025-11-17,410.284M,Series E-3,Data and Analytics
+10,CESY.PVT,Cerebras Systems,100.35,+174.48%,25.929B,2.923B,2026-02-03,1.014B,Series H,Hardware
+11,SPAX.PVT,SpaceX,601.13,+167.57%,1.427T,8.923B,2026-02-02,250B,Corporate Round,Space
+12,STOS.PVT,Stoke Space,49.92,+149.85%,3.419B,1.194B,2026-02-09,350M,Series D-2,Science and Engineering
+13,DITD.PVT,Divergent 3D,29.41,+145.08%,1.933B,884.612M,2025-09-14,153.103M,Series E,Manufacturing
+14,EISL.PVT,Eight Sleep,3.50,+143.06%,653.798M,269.776M,2026-03-03,69.122M,Series D,Consumer Electronics
+15,VERC.PVT,Vercel,175.01,+138.86%,8.104B,863.022M,2025-09-29,299.999M,Series F,Software
+16,TATE.PVT,TAE Technologies,45.00,+137.72%,2.472B,1.187B,2025-06-01,150M,Series 12,Energy
+17,MOTV.PVT,Motive,15.75,+137.56%,2.073B,434.602M,2025-07-29,169.945M,Series F Senior,Supply Chain and Logistics
+18,RAMP.PVT,Ramp,92.03,+134.77%,32.722B,2.191B,2025-11-16,300M,Series E-3,Financial Services
+19,INTC.PVT,Intercom,50.00,+117.39%,1.98B,241.365M,2018-03-16,125M,Series D,Sales and Marketing
+20,NETS.PVT,Netskope,22.49,+106.52%,8.249B,1.05B,2021-07-08,300M,Series H,Privacy and Security
+21,STRI.PVT,Stripe,72.45,+101.53%,184.401B,8.733B,2026-02-23,--,Tender Offer 3,Financial Services
+22,PEAI.PVT,Perplexity,69.54,+98.91%,20.391B,2.254B,2025-09-25,525M,Series E-6,Artificial Intelligence
+23,SHAI.PVT,Shield AI,153.22,+96.81%,10.432B,1.032B,2025-03-05,240M,Series F1,Government and Military
+24,ABRI.PVT,Abridge,170.00,+88.87%,5.686B,757.979M,2025-06-23,300M,Series E,Software
+25,AGRO.PVT,Agility Robotics,68.73,+86.46%,2.206B,641.249M,2025-06-24,400M,Series C-3,Hardware
+26,DATB.PVT,Databricks,196.29,+81.90%,138.436B,20.551B,2026-02-08,5B,Series L,Data and Analytics
+27,HARN.PVT,Harness,25.39,+79.18%,5.5B,715.854M,2025-12-10,200M,Tender Offer 1,Software
+28,GROQ.PVT,Groq,29.77,+75.53%,6.387B,1.798B,2025-09-16,750M,Series D-3,Hardware
+29,DRAG.PVT,Dragos,20.00,+73.91%,763.137M,382.196M,2021-10-27,210M,Series D,Privacy and Security
+30,ZIPL.PVT,Zipline,48.80,+70.81%,6.592B,1.753B,2026-01-19,600M,Series H,Supply Chain and Logistics
+31,PSIQ.PVT,PsiQuantum,33.77,+68.85%,5.748B,1.667B,2025-09-09,969.825M,Series E,Hardware
+32,ANIN.PVT,Anduril Industries,111.48,+62.58%,84.495B,6.955B,2026-01-13,500M,Series G-1,Government and Military
+33,UPGR.PVT,Upgrade,3.25,+58.54%,5.048B,795.503M,2025-11-30,49.139M,Tender Offer 1,Financial Services
+34,MERC.PVT,Mercury,14.50,+52.63%,3.924B,451.64M,2025-03-25,242.549M,Series C,Financial Services
+35,RIPL.PVT,Ripple,107.69,+47.48%,17.71B,575.065M,2016-09-14,44.477M,Series B,Blockchain and Crypto
+36,NEUR.PVT,Neuralink,75.62,+46.98%,14.865B,1.337B,2025-06-01,650M,Series E,Biotechnology
+37,GERO.PVT,Gecko Robotics,45.00,+46.91%,1.142B,349.003M,2025-06-11,116.065M,Series D-1,Hardware
+38,KRAK.PVT,Kraken,32.19,+36.57%,10.473B,965.021M,2025-11-17,200M,Series D,Blockchain and Crypto
+39,STDA.PVT,Starburst Data,0.70,+32.08%,407.979M,431.699M,2022-02-08,250M,Series D,Data and Analytics
+40,DISO.PVT,Discord,31.36,+30.83%,8.543B,1.005B,2021-08-14,499.999M,Series I,Messaging and Telecommunications
+41,THFD.PVT,The Farmer's Dog,26.50,+29.52%,4.214B,267.955M,2022-06-07,100M,Series E,Consumer Goods
+42,CONS.PVT,ConsenSys,27.39,+28.41%,1.383B,704.725M,2022-03-14,450M,Series D,Blockchain and Crypto
+43,CRES.PVT,Cresta,4.49,+28.29%,747.48M,279.411M,2024-11-18,125M,Series D,Software
+44,THMA.PVT,Thrive Market,22.14,+26.80%,1.157B,602.662M,2021-07-07,86.377M,Series C,Food and Beverage
+45,AUAN.PVT,Automation Anywhere,4.80,+26.65%,1.965B,815M,2019-11-20,174M,Series B,Data and Analytics
+46,DRUV.PVT,Druva,3.62,+24.83%,772.679M,147M,2021-04-18,147M,Series H,Privacy and Security
+47,RIPP.PVT,Rippling,60.00,+18.53%,19.386B,1.414B,2025-05-08,460.183M,Series G,Administrative Services
+48,BREX.PVT,Brex,12.16,+17.49%,4.306B,1.246B,2022-01-10,300M,Series D-2,Financial Services
+49,GLEA.PVT,Glean,53.41,+13.98%,7.845B,774.5M,2025-06-09,150M,Series F,Data and Analytics
+50,EPGA.PVT,Epic Games,479.75,+12.88%,17.991B,7.53B,2024-02-07,1.5B,Corporate Round,Media and Entertainment
+51,LEOL.PVT,LeoLabs,2.80,+12.00%,302.687M,422.932M,2024-02-11,94M,Series B,Space
+52,CRIB.PVT,Cribl,4.86,+10.45%,4.405B,725.274M,2024-08-26,199.036M,Series E,Data and Analytics
+53,AIR.PVT,Airtable,60.00,+8.60%,3.764B,4.114B,2021-12-12,735M,Series F,Software
+54,VERK.PVT,Verkada,9.32,+8.12%,4.866B,655.544M,2025-12-02,80M,Late Stage Venture,Privacy and Security
+55,FLEP.PVT,Flexport,3.60,+6.51%,1.012B,2.134B,2022-02-06,935M,Series E,Supply Chain and Logistics
+56,ADDE.PVT,Addepar,3.50,+4.79%,3.196B,720.918M,2025-05-12,230.711M,Series G,Financial Services
+57,LIG.PVT,Lightmatter,55.20,+2.56%,3.028B,822.484M,2024-10-15,13.483M,Series C-3,Hardware
+58,EPIR.PVT,Epirus,2.84,+2.53%,1.025B,541.339M,2025-03-03,250M,Series D,Government and Military
+59,TANI.PVT,Tanium,5.40,+0.56%,4.265B,470.943M,2020-06-24,150M,Series H,Privacy and Security
+60,WORA.PVT,Workato,6.00,+0.50%,2.115B,441.249M,2021-11-09,200M,Series E,Software
+61,COHS.PVT,Cohesity,15.67,+0.06%,4.69B,1.959B,2024-12-09,27.5M,Series H-1,Data and Analytics
+62,ARWO.PVT,Arctic Wolf,8.00,0.00%,4.21B,501.343M,2021-07-12,75M,Series F,Privacy and Security
+63,BLOO.PVT,Bloomreach,7.00,0.00%,566.707M,444.093M,2022-02-22,175M,Series F,Sales and Marketing
+64,EGNY.PVT,Egnyte,8.49,0.00%,772.83M,413.772M,2018-10-09,75M,Series E,Privacy and Security
+65,FANA.PVT,Fanatics,42.00,0.00%,17.093B,4.404B,2022-12-05,700M,Private Equity Round 3,Commerce and Shopping
+66,FIRB.PVT,Firebolt,2.60,0.00%,371.185M,609.198M,2022-01-25,100M,Series C,Data and Analytics
+67,GREE.PVT,Greenlight,15.76,0.00%,600.95M,1.11B,2021-04-26,260M,Series D,Financial Services
+68,SISE.PVT,Sisense,0.40,0.00%,--,--,2020-01-12,--,Series F,Data and Analytics
+69,VECR.PVT,Vectra AI,5.32,0.00%,839.797M,352.234M,2021-04-28,130M,Series F,Privacy and Security
+70,WYLA.PVT,Wyze Labs,3.00,0.00%,231.68M,146M,2021-07-29,100M,Series B,Hardware
+71,COLH.PVT,Collective Health,0.18,-5.26%,366.863M,713.283M,2021-05-03,280M,Series F,Health Care
+72,PATR.PVT,Patreon,10.81,-7.37%,864.53M,407.775M,2021-04-05,155M,Series F,Media and Entertainment
+73,FLOQ.PVT,FloQast,9.20,-8.00%,888.81M,303.775M,2024-04-09,60.294M,Series E,Software
+74,WORR.PVT,Workrise,106.30,-8.32%,735.52M,786.709M,2021-05-19,300M,Series E,Administrative Services
+75,LOOR.PVT,Loft Orbital,15.81,-8.35%,609.211M,316.273M,2025-01-13,170M,Series C,Space
+76,LIDE.PVT,Liquid Death,8.75,-8.66%,951.516M,2.484B,2024-03-10,67.61M,Series F-1,Food and Beverage
+77,BIGI.PVT,BigID,1.93,-10.65%,531.534M,1.216B,2024-03-17,61.44M,Series E,Privacy and Security
+78,SAAQ.PVT,SandboxAQ,15.25,-11.39%,5.121B,916.376M,2025-04-03,450M,Series E,Privacy and Security
+79,NEWS.PVT,Newsela,5.84,-12.18%,297.125M,188.971M,2021-02-24,100M,Series D,Education
+80,REMA.PVT,Redwood Materials,40.00,-13.34%,5.061B,2.175B,2025-10-22,350M,Series E,Energy
+81,TURO.PVT,Turo,9.87,-13.72%,1.259B,557.898M,2024-09-29,"457,448",Series 1,Transportation
+82,POSM.PVT,Postman,9.94,-14.68%,3.158B,352.001M,2021-08-17,145M,Series D,Software
+83,SINA.PVT,Sila Nanotechnologies,13.86,-15.59%,1.708B,3.239B,2024-06-26,375M,Series G,Energy
+84,AVIA.PVT,Aviatrix,3.48,-18.50%,411.025M,383.087M,2021-09-07,200M,Series E,Data and Analytics
+85,RAPP.PVT,Rappi,21.33,-19.51%,1.737B,5.871B,2021-07-20,496.1M,Series F,Transportation
+86,OUTR.PVT,Outreach,2.00,-20.00%,303.183M,490.857M,2021-05-26,201.027M,Series G,Software
+87,APOL.PVT,Apollo.io,12.77,-20.19%,922.777M,656.524M,2023-08-28,100.65M,Series D,Sales and Marketing
+88,INSA.PVT,Instabase,3.97,-21.39%,801.783M,276.216M,2025-01-16,100M,Series D,Data and Analytics
+89,CIHE.PVT,Cityblock Health,15.52,-22.05%,1.228B,1.827B,2024-06-17,39M,Series X,Health Care
+90,DTMR.PVT,Dataminr,8.93,-23.54%,832.202M,1.035B,2021-03-22,475M,Series F,Software
+91,THSP.PVT,ThoughtSpot,3.09,-24.08%,537.093M,802.884M,2023-07-17,124.638M,Series F-1,Software
+92,ACOR.PVT,Acorns,3.00,-25.37%,467.401M,838.725M,2023-03-30,111.358M,Series G-E,Financial Services
+93,APSC.PVT,Apeel Sciences,1.32,-28.26%,325.115M,647.05M,2021-08-17,250M,Series E,Agriculture and Farming
+94,IMPF.PVT,Impossible Foods,1.60,-28.89%,452.823M,1.961B,2021-11-22,500.145M,Series H-1,Food and Beverage
+95,ENRX.PVT,EnergyX,5.67,-29.13%,571.512M,105.846M,2023-06-29,37.433M,Series B,Energy
+96,ZOCD.PVT,Zocdoc,5.00,-29.68%,446.48M,1.149B,2021-02-10,100M,Series D-2,Health Care
+97,STRV.PVT,Strava,13.99,-30.05%,2.2B,228.485M,2025-05-21,50M,Series F-1,Apps
+98,SANS.PVT,SambaNova,30.99,-30.55%,2.238B,1.431B,2026-02-03,300M,Series E-1,Hardware
+99,AVTN.PVT,Avathon,3.73,-31.56%,334.89M,653.023M,2022-01-24,123M,Series D,Artificial Intelligence
+100,INNA.PVT,Innovaccer,2.39,-31.71%,1.117B,653.62M,2025-01-08,153.044M,Series F-1,Health Care
+101,NEFJ.PVT,Neo4j,6.93,-33.94%,1.239B,711.825M,2021-11-08,197.031M,Series F,Data and Analytics
+102,KORE.PVT,Kore.ai,9.50,-33.98%,530.745M,248.088M,2024-01-29,150M,Series D,Software
+103,CHAA.PVT,Chainalysis,7.25,-34.98%,1.547B,587.402M,2022-05-11,150M,Series F,Privacy and Security
+104,SIST.PVT,SingleStore,1.51,-40.08%,310.482M,388.782M,2022-07-11,116M,Series F-2,Data and Analytics
+105,HTWO.PVT,H2O.ai,2.32,-45.41%,137.791M,744.029M,2021-11-06,91.031M,Series E,Software
+106,ATTE.PVT,Attentive,6.03,-59.80%,913.457M,866.121M,2021-03-23,470.1M,Series E,Sales and Marketing
+107,SIXS.PVT,6sense,3.50,-64.57%,575.548M,525.798M,2022-01-19,180M,Series E-1,Software
+108,DATO.PVT,DataRobot,0.72,-66.51%,169.773M,3.361B,2021-07-26,330M,Series G,Data and Analytics
